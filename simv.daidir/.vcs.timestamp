@@ -122,7 +122,6 @@ GNOME_DESKTOP_SESSION_ID=this-is-deprecated
 GDMSESSION=ubuntu
 DVE_HOME=/home/jay/EDA/Synopsys/vcs-mx/vcs-mx/O-2018.09-SP2/gui/dve
 DESKTOP_SESSION=ubuntu
-DEEPSEEK_API_KEY=sk-4d137e044a494576b49284efc2cbde91
 DEBUGINFOD_URLS=https://debuginfod.ubuntu.com 
 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
 CONDA_SHLVL=0
